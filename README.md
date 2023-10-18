@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Ys-OoO
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning some project frameworks and technologies
+- 🌱 I’m currently learning some web project frameworks and technologies
 - 📫 reach me: ys0514@yeah.net
